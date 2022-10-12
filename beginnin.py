@@ -59,3 +59,10 @@ if 10 > 2:
 #w pythonie nie występują klamry! widoczność kodu określa się formatowaniem tekstu
 
 # while loop
+i = 5
+while i < 10:
+    print(i)
+    i+=1
+#w py nie można zainicjalizować zmiennej w instrukcji pętli while
+
+# Lists
