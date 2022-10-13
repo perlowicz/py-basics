@@ -66,3 +66,9 @@ while i < 10:
 #w py nie można zainicjalizować zmiennej w instrukcji pętli while
 
 # Lists
+names = ["ab","cd","ef","gh","if"]
+print(names[-1])
+
+# Tuples
+first_tuple = (1,2,3)
+print(first_tuple.__sizeof__)
